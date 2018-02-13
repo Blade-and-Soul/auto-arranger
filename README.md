@@ -1,4 +1,4 @@
-"# bns-auto-arranger" 
+#bns-auto-arranger
 ===
 ##前言
 -	這是一個為**劍靈**而寫的**排團程式**，用的是 **Google** 的**雲端服務**。
@@ -16,5 +16,10 @@
 -	排團最佳化
 -	資料視覺化
 
+##備註
+-	程式使用 **Google App Script** 開發 , 副檔名為 **.gs** 包含
+-	需具備一點 **JavaScript** , **Google Service** 的知識 (爬爬文就好了)
+-	取用時請遵照 **LICENSE** (GNU General Public License v3.0	)
+ 
 ##關於我
 -	email: **d215039@outlook.com**

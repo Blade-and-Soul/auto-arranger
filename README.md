@@ -22,4 +22,4 @@
 -	取用時請遵照 **LICENSE** (GNU General Public License v3.0	)
  
 ##	關於我
--	email: **d215039@outlook.com**
+-	email: **me.sheiun@gmail.com**
